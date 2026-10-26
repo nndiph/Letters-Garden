@@ -1,0 +1,15 @@
+# versi pribadi / arsip — tidak ikut repo
+surat-saja.html
+*.zip
+
+# aset: hanya yang dipakai template yang ikut repo
+assets/*
+!assets/4.png
+!assets/9.png
+!assets/10.png
+!assets/11.png
+!assets/13.png
+!assets/paper.png
+!assets/paper1.jpg
+!assets/paper3.png
+!assets/pic.jpg
